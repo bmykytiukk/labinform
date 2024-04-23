@@ -1,0 +1,22 @@
+<svg width="20" height="456" viewBox="0 0 20 456" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10 1L10 455" stroke="url(#paint0_linear_291_303)" stroke-linecap="round"/>
+<circle cx="9.9982" cy="431" r="5.61538" transform="rotate(-90 9.9982 431)" fill="#ff6b15" stroke="#ff6b15" stroke-width="2"/>
+<circle cx="10" cy="431" r="9.5" transform="rotate(-90 10 431)" stroke="#ff6b15"/>
+<circle cx="9.9982" cy="26.9998" r="5.61538" transform="rotate(-90 9.9982 26.9998)" fill="#ff6b15" stroke="#ff6b15" stroke-width="2"/>
+<circle cx="10" cy="27" r="9.5" transform="rotate(-90 10 27)" stroke="#ff6b15"/>
+<circle cx="9.9982" cy="124" r="5.61538" transform="rotate(-90 9.9982 124)" fill="#ff6b15" stroke="#ff6b15" stroke-width="2"/>
+<circle cx="10" cy="124" r="9.5" transform="rotate(-90 10 124)" stroke="#ff6b15"/>
+<circle cx="9.9982" cy="237" r="5.61538" transform="rotate(-90 9.9982 237)" fill="#ff6b15" stroke="#ff6b15" stroke-width="2"/>
+<circle cx="10" cy="237" r="9.5" transform="rotate(-90 10 237)" stroke="#ff6b15"/>
+<circle cx="9.9982" cy="350" r="5.61538" transform="rotate(-90 9.9982 350)" fill="#ff6b15" stroke="#ff6b15" stroke-width="2"/>
+<circle cx="10" cy="350" r="9.5" transform="rotate(-90 10 350)" stroke="#ff6b15"/>
+<defs>
+<linearGradient id="paint0_linear_291_303" x1="10" y1="1" x2="10" y2="454.482" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ff6b15" stop-opacity="0"/>
+<stop offset="0.0594457" stop-color="#ff6b15"/>
+<stop offset="0.891272" stop-color="#ff6b15"/>
+<stop offset="0.94147" stop-color="#ff6b15"/>
+<stop offset="1" stop-color="#ff6b15" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
