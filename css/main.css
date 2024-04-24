@@ -188,13 +188,6 @@ iframe {
     border-radius: 28px;
 }
 
-.btn_orange:hover {
-    background-color: #ff4000;
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
-    transform: scale(1.1);
-}
-
 @media only screen and (max-width: 1649px) {
     .container {
         max-width: 1190px;
@@ -225,13 +218,8 @@ iframe {
     padding: 105px 0 103px;
     background-image: url(../images/header-bg.png);
     background-position: center;
-    background-size: cover;
-    transition: 1s; 
+    background-size: cover; 
     display: block; 
-}
-
-.header:hover {
-    transform: scale(1.01); 
 }
 
 .header__head {
@@ -251,10 +239,6 @@ iframe {
 .header__logo img {
     transition: 1s; 
     display: block; 
-}
-
-.header__logo img:hover {
-    transform: scale(1.2); 
 }
 
 .header__list {
@@ -380,15 +364,6 @@ iframe {
     padding: 100px;
     background: rgba(74, 74, 74, 0.25);
     border-radius: 30px;
-    opacity: 0.9;
-    transition: 1s; 
-}
-
-.for-tg__item:hover {
-    -webkit-transform: scale(1.2);
-    -ms-transform: scale(1.2);
-    transform: scale(1.2);
-    opacity: 1;
 }
 
 .for-tg__item-text {
@@ -505,12 +480,6 @@ iframe {
 .for-web__item-img {
     width: 108px;
     margin: 0 auto;
-    transition: 1s; 
-    display: block;
-}
-
-.for-web__item-img:hover {
-    transform: scale(1.2)
 }
 
 .for-web__item-text {   
@@ -521,11 +490,6 @@ iframe {
     letter-spacing: 0.32px;
     text-transform: uppercase;
     text-align: center;
-    transition: 1s; 
-}
-
-.for-web__item-text:hover {
-    transform: scale(1.2)
 }
 
 .for-web__btn {
@@ -914,11 +878,6 @@ iframe {
 .basement {
     padding: 104px 0 106px;
     background-color: #222222;
-    transition: 1s;
-}
-
-.basement:hover {
-    transform: scale(1.01); 
 }
 
 .basement__block {
